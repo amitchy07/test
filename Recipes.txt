@@ -2,6 +2,7 @@ Welcome to learn Recipes
 1.Kheer
 2.Pasta
 3.Veg Biriyani
+5.Moong Dal
 
 
 
@@ -9,4 +10,4 @@ Welcome to learn Recipes
 
 
 
-Thank You
+Thank You :)
