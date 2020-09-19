@@ -2,7 +2,9 @@ Welcome to learn Recipes
 1.Kheer
 2.Pasta
 3.Veg Biriyani
-5.Moong Dal
+4.Coce
+5.Pizza
+6.Moong Dal
 
 
 
