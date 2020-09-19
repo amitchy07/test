@@ -4,6 +4,7 @@ Welcome to learn Recipes
 3.Veg Biriyani
 4.Coce
 5.Pizza
+6.Moong Dal
 
 
 
@@ -11,4 +12,4 @@ Welcome to learn Recipes
 
 
 
-Thank You
+Thank You :)
